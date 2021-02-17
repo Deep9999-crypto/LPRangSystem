@@ -1,5 +1,6 @@
 # LPRangSystem
-# Made by Deep
+
+Made by Deep
 
 German:
 Dieses RangSystem ist für LuckPerms (LP) und für Spigot erstellt.
